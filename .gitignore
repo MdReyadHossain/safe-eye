@@ -1,0 +1,82 @@
+## ==========================================
+## .NET / C# / WPF - Git Ignore Rules
+## ==========================================
+
+# User-specific Visual Studio files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache & internal files
+.vs/
+*.ide/
+Generated\ Files/
+_ReSharper*/
+*.DotSettings.user
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# WiX & Inno Setup temporary build artifacts
+*.wixobj
+*.wixpdb
+installer/publish_single/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+!**/packages.config
+
+# Test results & code coverage
+[Tt]est[Rr]esult*/
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Temporary files & caches
+*.tmp
+*.temp
+*.bak
+*~
+*.swp
+*.cache
+*.pidb
+
+# Windows OS metadata
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ----------------------------------------------------
+# Exceptions: Preserve pre-built installer deliverables
+# ----------------------------------------------------
+!setup/Debug/setup.msi
+!setup/Debug/setup.exe
