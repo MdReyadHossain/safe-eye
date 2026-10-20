@@ -10,11 +10,11 @@ You can install **Safe Eye** directly using the pre-built Windows Installer:
 
 | Package | Description | Download Link |
 | :--- | :--- | :--- |
-| **Safe Eye Installer (.msi)** | Standard Windows Installer package | 💾 **[Download setup.msi](https://raw.githubusercontent.com/MdReyadHossain/safe-eye/main/setup/Debug/setup-safe_eye.msi)** |
-| **Setup Bootstrapper (.exe)** | Windows Setup Launcher | 🚀 **[Download setup.exe](https://raw.githubusercontent.com/MdReyadHossain/safe-eye/main/setup/Debug/setup-safe_eye.exe)** |
+| **Safe Eye Installer (.msi)** | Standard Windows Installer package | 💾 **[Download setup.msi](https://raw.githubusercontent.com/MdReyadHossain/safe-eye/main/setup/Debug/setup-safe_eye7364f7e.msi)** |
+| **Setup Bootstrapper (.exe)** | Windows Setup Launcher | 🚀 **[Download setup.exe](https://raw.githubusercontent.com/MdReyadHossain/safe-eye/main/setup/Debug/setup-safe_eye7364f7e.exe)** |
 
 > [!TIP]
-> Download and run **[setup.msi](https://raw.githubusercontent.com/MdReyadHossain/safe-eye/main/setup/Debug/setup-safe_eye.msi)**. The installer registers Safe Eye in Windows, configures Desktop and Start Menu shortcuts, and sets up automatic launch options.
+> Download and run **[setup.msi](https://raw.githubusercontent.com/MdReyadHossain/safe-eye/main/setup/Debug/setup-safe_eye7364f7e.msi)**. The installer registers Safe Eye in Windows, configures Desktop and Start Menu shortcuts, and sets up automatic launch options.
 
 ---
 
