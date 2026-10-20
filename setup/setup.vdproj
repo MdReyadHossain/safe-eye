@@ -15,19 +15,13 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_1A2CF2D2AC1E4F048CF1FF9A191F40B7"
+        "MsmKey" = "8:_797CDD552A4D46AE9E7CED8CA2445D5F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_1FE612D9813D49A89214928B706C37D4"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E3F0A8060A1747C2B26022B344B9D853"
+        "MsmKey" = "8:_A59B66B4ED404C23BFEDEAD97D0D60AC"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -56,6 +50,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
         "Release"
@@ -80,6 +82,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -112,27 +122,7 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1A2CF2D2AC1E4F048CF1FF9A191F40B7"
-            {
-            "SourcePath" = "8:D:\\Temp Download\\sage-eyes_logo.png"
-            "TargetName" = "8:sage-eyes_logo.png"
-            "Tag" = "8:"
-            "Folder" = "8:_166553EA59CA4AFBB5EF0F98B4268767"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E3F0A8060A1747C2B26022B344B9D853"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_797CDD552A4D46AE9E7CED8CA2445D5F"
             {
             "SourcePath" = "8:D:\\Temp Download\\sage-eyes_logo.ico"
             "TargetName" = "8:sage-eyes_logo.ico"
@@ -329,32 +319,32 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_7D181DD1E53446D1BEEB0E649BCAFE3F"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_473F2DD8452E4D2683A2EE494B5B644A"
             {
-            "Name" = "8:Safe Eye"
+            "Name" = "8:Safe eye"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_1FE612D9813D49A89214928B706C37D4"
-            "Folder" = "8:_8A0E17CF1CB145BCA004CD1BD80F089A"
-            "WorkingFolder" = "8:_166553EA59CA4AFBB5EF0F98B4268767"
-            "Icon" = "8:_E3F0A8060A1747C2B26022B344B9D853"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_BF7FFB0DCB4A41179952341969308036"
-            {
-            "Name" = "8:Safe Eye"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_1FE612D9813D49A89214928B706C37D4"
+            "Target" = "8:_A59B66B4ED404C23BFEDEAD97D0D60AC"
             "Folder" = "8:_F4887F3D142D4A2D89B606C6620B832C"
             "WorkingFolder" = "8:_166553EA59CA4AFBB5EF0F98B4268767"
-            "Icon" = "8:_E3F0A8060A1747C2B26022B344B9D853"
+            "Icon" = "8:_797CDD552A4D46AE9E7CED8CA2445D5F"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_E5CC59F366A8458998C94231A1AC69DA"
+            {
+            "Name" = "8:Safe Eye"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_A59B66B4ED404C23BFEDEAD97D0D60AC"
+            "Folder" = "8:_8A0E17CF1CB145BCA004CD1BD80F089A"
+            "WorkingFolder" = "8:_166553EA59CA4AFBB5EF0F98B4268767"
+            "Icon" = "8:_797CDD552A4D46AE9E7CED8CA2445D5F"
             "Feature" = "8:"
             }
         }
@@ -756,7 +746,7 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_1FE612D9813D49A89214928B706C37D4"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_A59B66B4ED404C23BFEDEAD97D0D60AC"
             {
             "SourcePath" = "8:..\\WpfApp1\\obj\\Debug\\net9.0-windows\\apphost.exe"
             "TargetName" = "8:"
