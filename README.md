@@ -4,6 +4,23 @@ A lightweight, native Windows desktop application named **Safe Eye**, built with
 
 ---
 
+## Description
+Safe Eye is a simple Windows break reminder application designed to help you build healthier screen habits while working, studying or browsing.
+
+Take regular breaks, relax your eyes and reduce long periods of uninterrupted screen time with customizable reminders and a clean, distraction-free experience.
+
+### Key Features
+
+- Eye Break Reminders: Get timely reminders to rest your eyes during screen use.
+- Relaxation Breaks: Take longer breaks to stretch, relax and reset.
+- Customizable Intervals: Adjust reminder timing and break durations to suit your routine.
+- Simple Experience: Enjoy a clean interface with easy-to-follow on-screen reminders.
+- Windows Integration: Keep reminders accessible while using your computer.
+
+Safe Eye helps you make regular breaks part of your daily routine, so you can work and study with more mindful screen habits.
+
+Take a moment. Rest your eyes. Get back refreshed.
+
 ## 📥 Download & Installation
 
 You can install **Safe Eye** directly using the pre-built Windows Installer:
