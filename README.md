@@ -11,7 +11,7 @@ You can install **Safe Eye** directly using the pre-built Windows Installer:
 | Package | Description | Download Link |
 | :--- | :--- | :--- |
 | **Safe Eye Installer (.msi)** | Standard Windows Installer package | 💾 **[Download setup.msi](https://raw.githubusercontent.com/MdReyadHossain/safe-eye/main/setup/Debug/setup-safe_eyeb08811a.msi)** |
-| **Setup Bootstrapper (.exe)** | Windows Setup Launcher | 🚀 **[Download setup.exe](https://raw.githubusercontent.com/MdReyadHossain/safe-eye/main/setup/Debug/setup-safe_eyeb08811a.exe)** |
+<!-- | **Install via Store** | Microsoft Store | 🚀 **[Go to Store](ms-windows-store://pdp/?productid=9NL4T16W7778)** | -->
 
 > [!TIP]
 > Download and run **[setup.msi](https://raw.githubusercontent.com/MdReyadHossain/safe-eye/main/setup/Debug/setup-safe_eyeb08811a.msi)**. The installer registers Safe Eye in Windows, configures Desktop and Start Menu shortcuts, and sets up automatic launch options.

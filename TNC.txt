@@ -1,0 +1,105 @@
+Safe Eye Privacy Policy
+
+Effective date: October 23, 2026  
+Last updated: October 23, 2026
+
+ 1. Introduction
+
+Safe Eye is a Windows desktop application designed to encourage healthy screen habits by reminding users to take regular breaks while using their computers.
+
+Your privacy is important to us. This Privacy Policy explains what information Safe Eye accesses, how it is used, where it is stored, and what choices you have when using the application.
+Safe Eyes is a simple Windows break reminder application designed to help you build healthier screen habits while working, studying, or browsing.
+
+Take regular breaks, relax your eyes, and reduce long periods of uninterrupted screen time with customizable reminders and a clean, distraction-free experience.
+
+**Key Features**
+
+- **Eye Break Reminders:** Get timely reminders to rest your eyes during screen use.
+- **Relaxation Breaks:** Take longer breaks to stretch, relax, and reset.
+- **Customizable Intervals:** Adjust reminder timing and break durations to suit your routine.
+- **Simple Experience:** Enjoy a clean interface with easy-to-follow on-screen reminders.
+- **Windows Integration:** Keep reminders accessible while using your computer.
+
+Safe Eyes helps you make regular breaks part of your daily routine, so you can work and study with more mindful screen habits.
+
+**Take a moment. Rest your eyes. Get back refreshed.**
+ 2. Information We Collect
+
+Safe Eye is designed to operate locally on your Windows device.
+
+We do not collect or transmit personal information to our servers. Safe Eye does not require an account, and it does not ask you to provide your name, email address, phone number, or other identifying information to use its core features.
+
+The application may access limited device information necessary to provide its functionality, including:
+
+- Break reminder settings: Your selected break intervals, reminder durations, and other preferences.
+- Local application state: Information required to maintain your preferences and application behavior.
+- Computer activity status: Local system activity information, such as idle time, if enabled and required by the break-reminder functionality.
+
+This information is used only to operate the application and provide its features.
+
+ 3. How We Use Information
+
+Information accessed or stored by Safe Eye is used to:
+
+- Schedule and display break reminders.
+- Apply your selected reminder preferences.
+- Support application startup and background operation, if enabled.
+- Maintain the application's normal functionality.
+
+Safe Eye does not use this information for advertising, behavioral profiling, or marketing.
+
+ 4. Data Storage and Security
+
+Application preferences and related local settings may be stored on your Windows device.
+
+Safe Eye does not transmit these settings to an external server as part of its standard functionality. We do not maintain a remote database of users' personal information.
+
+We take a privacy-conscious approach by minimizing information access and keeping application settings local wherever possible. However, no software or local storage method can be guaranteed to be completely secure.
+
+ 5. Information Sharing and Third Parties
+
+Safe Eye does not sell, rent, or share users' personal information with third parties.
+
+The application does not intentionally send personal information to external analytics, advertising, or tracking services.
+
+Microsoft Windows and the Microsoft Store may independently process information according to Microsoft's own policies when you use Windows or install and update applications through the Store. Those activities are governed by the applicable Microsoft privacy terms and are outside Safe Eye' control.
+
+ 6. Internet Connectivity
+
+Safe Eye' core break-reminder functionality does not require an internet connection.
+
+If future versions introduce online services, analytics, cloud synchronization, or other features involving data transmission, this Privacy Policy will be updated to explain the relevant information practices before those features are introduced, as applicable.
+
+ 7. Your Choices and Data Control
+
+You can control your use of Safe Eye by changing the application's settings or uninstalling it.
+
+You may also remove locally stored application settings by deleting the relevant application data from your Windows device, where applicable. Please note that deleting these settings may reset your preferences.
+
+Because Safe Eye does not maintain a remote database of personal information under the practices described in this policy, there is no Safe Eye server account from which you need to request deletion.
+
+ 8. Children's Privacy
+
+Safe Eye is a general-purpose productivity application and is not specifically designed to collect personal information from children.
+
+The application does not knowingly collect personal information from children. If the application's data practices change in a way that affects children's information, this policy will be updated accordingly.
+
+ 9. Changes to This Privacy Policy
+
+We may update this Privacy Policy when Safe Eye gains new features, its data practices change, or applicable legal requirements change.
+
+The revised policy will be published at the same privacy policy URL, together with an updated effective or revision date.
+
+We encourage users to review this page periodically.
+
+ 10. Contact Us
+
+If you have questions, concerns, or requests regarding this Privacy Policy, please contact us:
+
+Application: Safe Eye  
+Developer/Publisher: Squadrosoft
+Contact email: squadrosoft@gmail.com  
+Website: https://beetcoder.com
+
+By using Safe Eye, you acknowledge that you have read this Privacy Policy.
+

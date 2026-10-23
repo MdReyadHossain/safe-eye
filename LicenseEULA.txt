@@ -1,0 +1,37 @@
+Safe Eye — End User License Agreement (EULA)
+
+Effective Date: October 23, 2026
+
+1. License Grant
+Safe Eye grants you a limited, non-exclusive, non-transferable license to install and use the application for personal or professional purposes, subject to these terms.
+
+2. Acceptable Use
+You may not reverse engineer, modify, redistribute, or commercially resell the application except where permitted by applicable law or authorized in writing by the developer.
+
+3. Intellectual Property
+Safe Eye, including its software, branding, and original content, is owned by its developer or respective rights holders and is protected by applicable intellectual property laws.
+
+4. Disclaimer of Warranty
+The application is provided “as is” and “as available,” without warranties of any kind to the extent permitted by applicable law.
+
+Safe Eye is intended to encourage regular screen breaks. It is not a medical device and does not provide medical advice or guarantee the prevention of eye strain or other health conditions.
+
+5. Limitation of Liability
+To the extent permitted by applicable law, the developer will not be liable for indirect, incidental, or consequential damages arising from the use of the application.
+
+Nothing in these terms excludes or limits liability where such exclusion or limitation is prohibited by law.
+
+6. Updates and Availability
+The developer may update, modify, suspend, or discontinue features of the application as permitted by applicable law and the applicable Microsoft Store terms.
+
+7. Termination
+This license terminates if you fail to comply with these terms. Upon termination, you must stop using and uninstall the application.
+
+8. Governing Law
+These terms are subject to applicable laws and regulations. Mandatory consumer protection rights remain unaffected.
+
+9. Contact
+For questions regarding this agreement, contact:
+
+Developer: Reyad 
+Email: reyad@beetcoder.com
