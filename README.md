@@ -28,6 +28,7 @@ You can install **Safe Eye** directly using the pre-built Windows Installer:
 | Package | Description | Download Link |
 | :--- | :--- | :--- |
 | **Safe Eye Installer (.msi)** | Standard Windows Installer package | 💾 **[Download setup.msi](https://raw.githubusercontent.com/MdReyadHossain/safe-eye/main/setup/Debug/setup-safe_eyeb08811a.msi)** |
+| **Install via Store** | Microsoft Store | 🚀 **[Go to Store](https://apps.microsoft.com/store/detail/9NL4T16W7778?cid=DevShareMCLPCS)** |
 <!-- | **Install via Store** | Microsoft Store | 🚀 **[Go to Store](ms-windows-store://pdp/?productid=9NL4T16W7778)** | -->
 
 > [!TIP]
